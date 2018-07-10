@@ -8,3 +8,6 @@ count      = "${length(var.gh_users) * length(var.gh_labels) * var.gh_labels_ena
   - [x] first item in the list
   - [ ] second item in the list
   - [x] third item in the list
+
+
+Some text in **bold**
